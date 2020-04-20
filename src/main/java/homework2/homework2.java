@@ -2,8 +2,7 @@ package homework2;
 
 public class homework2 {
 
-         private static final int REQUIRED_ARRAY_SIZE = 4;
-
+    private static final int REQUIRED_ARRAY_SIZE = 4;
         private static final String[][] CORRECT_DATA = new String[][]{
                 {"1", "2", "3", "4"},
                 {"5", "6", "7", "8"},
@@ -78,3 +77,4 @@ public class homework2 {
         }
     }
 
+//
